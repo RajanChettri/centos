@@ -1,6 +1,6 @@
 class Demo{
 
 	public static void main(String[] args){
-	System.out.println("WebHooks Localhost!");
+	System.out.println("WebHooks Localhost! New");
 }
 }

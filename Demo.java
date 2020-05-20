@@ -2,6 +2,7 @@ class Demo{
 
 	public static void main(String[] args){
 
-	System.out.println("WebHooks Localhost! New 13");
+	System.out.println("WebHook Rocks!");
+	System.out.println("Java Rocks");
 }
 }
